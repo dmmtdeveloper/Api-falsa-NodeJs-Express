@@ -1,5 +1,5 @@
 import express from "express";
-import * as route from "./src/route/productRoute.js";
+import * as route from "./server/routes/productRoute.js";
 
 const app = express();
 
